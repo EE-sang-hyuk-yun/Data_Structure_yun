@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.c">
+    <ClCompile Include="main_code_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="var_data_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_pointer_file.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
