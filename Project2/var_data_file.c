@@ -3,7 +3,7 @@
 
 int var_data(void)
 {
-    //노트북으로 변경
+    printf("수정되나???");
 
     return 0;
 }
