@@ -15,9 +15,11 @@ int main(void)
 {
 	double x1, x2, y1, y2;
 	double x;
+
 	printf("첫 번째 점의 좌표를 입력하시오: ");
 	scanf("%lf %lf", &x1, &y1);
 
+	printf("%d", 10);
 
 	return 0;
 }
