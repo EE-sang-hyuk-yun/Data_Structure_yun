@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    var_data();
+    //var_data();
     str_point();
 
     return 0;
